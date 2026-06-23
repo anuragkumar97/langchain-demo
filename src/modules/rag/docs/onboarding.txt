@@ -1,0 +1,6 @@
+Customer onboarding requires:
+
+1. PAN verification
+2. Aadhaar verification
+3. Mobile verification
+4. Welcome email
